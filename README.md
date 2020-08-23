@@ -18,7 +18,7 @@ It was done during Covid-19
 * see their grades in all the Tests
 
 
-Guide:
+### Guide:
 
 - Read the About Page to know what our application can do
 - Create your account
@@ -30,7 +30,7 @@ Guide:
 Prepared by:
 
 ## Mohamad Abdallah
-           &
+##        &
 ## Ibrahim Jazzar
 
 
