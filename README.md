@@ -1,7 +1,7 @@
 # Online Exams Website
 
-this is project is for online education
-it was done during Covid-19
+This project is for online education
+It was done during Covid-19
 
 ### Teachers:
 
