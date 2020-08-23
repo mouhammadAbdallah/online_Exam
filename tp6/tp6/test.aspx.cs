@@ -14,7 +14,7 @@ namespace tp6
 {
     public partial class test : System.Web.UI.Page
     {
-        public static String ConnectionString = @"Server=sql.freeasphost.net\MSSQL2016;Database=mohamadrabdallah_OnlineQuiz;uid=mohamadrabdallah;pwd=mohamadrabdallah;";
+        public static String ConnectionString = @"workstation id=OnlineQuiz.mssql.somee.com;packet size=4096;user id=mohamad_somee_SQLLogin_1;pwd=gckjiz4z9f;data source=OnlineQuiz.mssql.somee.com;persist security info=False;initial catalog=OnlineQuiz";
         //public static String ConnectionString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=OnlineQuiz;Integrated Security=True";
         public static DataSet GetDataSet(string SQLCommand)
         {
