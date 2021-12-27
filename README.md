@@ -1,7 +1,9 @@
 # Online Exams Website
 
-This project is for online education
-It was done during Covid-19
+This project helps for online education. It was done during Covid-19 period.
+Teachers can create their own tests and students can solve them to get grades.
+
+It was done using ASP.Net and MS SQL Database
 
 ### Teachers:
 
