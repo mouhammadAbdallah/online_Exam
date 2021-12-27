@@ -30,8 +30,3 @@ It was done during Covid-19
 Prepared by:
 
 ## Mohamad Abdallah
-##        &
-## Ibrahim Jazzar
-
-
-
